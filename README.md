@@ -24,30 +24,36 @@
 ---
 
 ## 🚀 Getting Started
-
 1. Clone the repository:
    git clone https://github.com/yourusername/puzzle-me.git
    cd puzzle-me
-2.Compile and run:
 
-Open the project in an IDE (e.g., IntelliJ IDEA or Eclipse), then run src/puzzlegame/App.java
+2. Compile and run:
+    Open the project in an IDE (e.g., IntelliJ IDEA or Eclipse), then run src/puzzlegame/App.java
 
-Or compile via terminal:
-javac src/puzzlegame/App.java
+    Or compile via terminal:
+    javac src/puzzlegame/App.java
+   
+---
 
-📌 Roadmap
-✅ Basic puzzle logic 
+## 📌 Roadmap
+   
+- ✅ Basic puzzle logic 
+ 
+- ✅Restart & exit functionality
 
-✅Restart & exit functionality
+- ✅About menu
 
-✅About menu
+- 🚧Login system
 
-🚧Login system
+- 🚧Change image feature
 
-🚧Change image feature
+- 🚧Sound effects & scoring system
 
-🚧Sound effects & scoring system
+---
 
-👤 Author
-Kai Yang
-GitHub: https://github.com/imykai57
+##👤 Author
+   
+- Kai Yang
+   
+- GitHub: https://github.com/imykai57
